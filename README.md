@@ -359,22 +359,6 @@ Files needed:
 
 ---
 
-## Publication Potential
-
-This architecture — combining validated screening instruments (PHQ-9, GAD-7) with ML-based detection and longitudinal tracking — is a strong candidate for:
-
-| Venue | Type |
-|---|---|
-| IEEE Journal of Biomedical and Health Informatics (JBHI) | Journal |
-| Journal of the American Medical Informatics Association (JAMIA) | Journal |
-| EMNLP / ACL Mental Health Workshops | Conference |
-
-**Evaluation metrics for paper:**
-- Sensitivity/specificity of escalation decisions vs. clinician gold labels
-- PHQ-9 score correlation with clinician assessment
-- User engagement across sessions
-
----
 
 ## Author
 
